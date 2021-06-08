@@ -8,19 +8,19 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Alessio\\.nuget\\packages\\": {}
+    "C:\\Users\\Alessandro Vendrame\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Alessio\\Desktop\\PW\\PW.RoomTech\\PW.RoomTech.Models\\PW.RoomTech.Models.csproj",
+      "projectUniqueName": "C:\\Users\\Alessandro Vendrame\\Desktop\\paginaWeb\\PW.RoomTech\\PW.RoomTech.Models\\PW.RoomTech.Models.csproj",
       "projectName": "PW.RoomTech.Models",
-      "projectPath": "C:\\Users\\Alessio\\Desktop\\PW\\PW.RoomTech\\PW.RoomTech.Models\\PW.RoomTech.Models.csproj",
-      "packagesPath": "C:\\Users\\Alessio\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Alessio\\Desktop\\PW\\PW.RoomTech\\PW.RoomTech.Models\\obj\\",
+      "projectPath": "C:\\Users\\Alessandro Vendrame\\Desktop\\paginaWeb\\PW.RoomTech\\PW.RoomTech.Models\\PW.RoomTech.Models.csproj",
+      "packagesPath": "C:\\Users\\Alessandro Vendrame\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Alessandro Vendrame\\Desktop\\paginaWeb\\PW.RoomTech\\PW.RoomTech.Models\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Alessio\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Alessandro Vendrame\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
