@@ -183,10 +183,10 @@ function sendData(mts){
 
 //#endregion
 
-/*setInterval(function(){
+setInterval(function(){
 	var date = new Date();
 
-	console.log("Controllo per le ore " + date.getHours() + " " + date.getMinutes());
+	console.log("Controllo per le ore " + date.getHours() + ":" + date.getMinutes());
 	if(classRoomSchedule != undefined)
 		classRoomSchedule.forEach(element =>{
 			var schDate = new Date(element.date);
@@ -210,7 +210,7 @@ function sendData(mts){
 			}
 		});
 
-},30000);*/
+},30000);
 
 //#region Classe per l'invio dei messaggi ai pic
 
