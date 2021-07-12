@@ -1,0 +1,57 @@
+﻿@page "/NewLesson"
+@model InsertModel
+@{
+    ViewData["Title"] = "New Lesson";
+}
+<h2 class="mt-4" style="text-align: center">New lesson</h2>
+<div class="col-6 offset-3 mt-3">
+    <form method="post">
+        <div class="card border-0" style="background-color: transparent;">
+            <div class="card-body">
+                <!--AULA-->
+                <div class="input-group mb-5">
+                    <label class="input-group-text" asp-for="Lesson.Classroom" for="inputGroupSelect01">Classroom</label>
+                    <select asp-for="Lesson.Classroom" class="custom-select"
+                            asp-items="@Model.UniqueClassesName" required>
+                    </select>
+                    <span></span>
+                    <label class="input-group-text ml-3" asp-for="Lesson.Floor" for="inputGroupSelect01">Floor</label>
+                    <select asp-for="Lesson.Floor" class="custom-select"
+                            asp-items="@Model.UniqueFloorsNumber" required>
+                    </select>
+                </div>
+                <!--DOCENTE-->
+                <div class="input-group mb-5">
+                    <label class="input-group-text" asp-for="Lesson.Teacher" for="inputGroupSelect01">Teacher</label>
+                    <select asp-for="Lesson.Teacher" class="custom-select" id="teacher"
+                            asp-items="@Model.UniqueTeachersSurname" required>
+                    </select>
+                </div>
+                <!--MATERIA-->
+                <div class="input-group mb-5">
+                    <label class="input-group-text" asp-for="Lesson.Subject" for="inputGroupSelect01">Subject</label>
+                    <input asp-for="Lesson.Subject" type="text" class="form-control" placeholder="" id="subject" required aria-label="Subject" aria-describedby="basic-addon1">
+                </div>
+                <!--DATA e ORA-->
+                <div class="datetimepicker input-group mb-5">
+                    <label asp-for="Lesson.Date" class="input-group-text" for="inputGroupSelect01">Date</label>
+                    <input asp-for="Lesson.Date" class="form-control" type="date" id="date" value="" required>
+                    <span></span>
+                    <label asp-for="Lesson.StartTime" class="input-group-text ml-3" for="inputGroupSelect01">Start Lesson</label>
+                    <input asp-for="Lesson.StartTime" class="form-control" type="time" id="time" value="" required>
+                </div>
+                <!--DURATA-->
+                <div class="input-group mb-5">
+                    <label class="input-group-text" asp-for="Lesson.Duration" for="inputGroupSelect01">Duration (Hours)</label>
+                    <input asp-for="Lesson.Duration" type="number" class="form-control" aria-label="" required>
+                </div>
+
+                <div style="align-items: center">
+                    <button type="submit" class="btn btn-success col-3">Confirm</button>
+                    <span></span>
+                    <a asp-page="/Lessons/Insert" class="btn btn-danger col-3">Delete</a>
+                </div>
+            </div>
+        </div>
+    </form>
+</div>
