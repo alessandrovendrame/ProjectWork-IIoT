@@ -1,0 +1,17 @@
+C:\Users\Fluox\Documents\Project-Work\sln\RoomTech.CloudManager\RoomTech.CloudManager.Infrastructure\bin\Debug\net5.0\RoomTech.CloudManager.Infrastructure.deps.json
+C:\Users\Fluox\Documents\Project-Work\sln\RoomTech.CloudManager\RoomTech.CloudManager.Infrastructure\bin\Debug\net5.0\RoomTech.CloudManager.Infrastructure.dll
+C:\Users\Fluox\Documents\Project-Work\sln\RoomTech.CloudManager\RoomTech.CloudManager.Infrastructure\bin\Debug\net5.0\ref\RoomTech.CloudManager.Infrastructure.dll
+C:\Users\Fluox\Documents\Project-Work\sln\RoomTech.CloudManager\RoomTech.CloudManager.Infrastructure\bin\Debug\net5.0\RoomTech.CloudManager.Infrastructure.pdb
+C:\Users\Fluox\Documents\Project-Work\sln\RoomTech.CloudManager\RoomTech.CloudManager.Infrastructure\bin\Debug\net5.0\RoomTech.CloudManager.ApplicationCore.dll
+C:\Users\Fluox\Documents\Project-Work\sln\RoomTech.CloudManager\RoomTech.CloudManager.Infrastructure\bin\Debug\net5.0\RoomTech.CloudManager.Domain.dll
+C:\Users\Fluox\Documents\Project-Work\sln\RoomTech.CloudManager\RoomTech.CloudManager.Infrastructure\bin\Debug\net5.0\RoomTech.CloudManager.ApplicationCore.pdb
+C:\Users\Fluox\Documents\Project-Work\sln\RoomTech.CloudManager\RoomTech.CloudManager.Infrastructure\bin\Debug\net5.0\RoomTech.CloudManager.Domain.pdb
+C:\Users\Fluox\Documents\Project-Work\sln\RoomTech.CloudManager\RoomTech.CloudManager.Infrastructure\obj\Debug\net5.0\RoomTech.CloudManager.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Fluox\Documents\Project-Work\sln\RoomTech.CloudManager\RoomTech.CloudManager.Infrastructure\obj\Debug\net5.0\RoomTech.CloudManager.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fluox\Documents\Project-Work\sln\RoomTech.CloudManager\RoomTech.CloudManager.Infrastructure\obj\Debug\net5.0\RoomTech.CloudManager.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Fluox\Documents\Project-Work\sln\RoomTech.CloudManager\RoomTech.CloudManager.Infrastructure\obj\Debug\net5.0\RoomTech.CloudManager.Infrastructure.AssemblyInfo.cs
+C:\Users\Fluox\Documents\Project-Work\sln\RoomTech.CloudManager\RoomTech.CloudManager.Infrastructure\obj\Debug\net5.0\RoomTech.CloudManager.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Fluox\Documents\Project-Work\sln\RoomTech.CloudManager\RoomTech.CloudManager.Infrastructure\obj\Debug\net5.0\RoomTech.CloudManager.Infrastructure.csproj.CopyComplete
+C:\Users\Fluox\Documents\Project-Work\sln\RoomTech.CloudManager\RoomTech.CloudManager.Infrastructure\obj\Debug\net5.0\RoomTech.CloudManager.Infrastructure.dll
+C:\Users\Fluox\Documents\Project-Work\sln\RoomTech.CloudManager\RoomTech.CloudManager.Infrastructure\obj\Debug\net5.0\ref\RoomTech.CloudManager.Infrastructure.dll
+C:\Users\Fluox\Documents\Project-Work\sln\RoomTech.CloudManager\RoomTech.CloudManager.Infrastructure\obj\Debug\net5.0\RoomTech.CloudManager.Infrastructure.pdb

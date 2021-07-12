@@ -1,0 +1,33 @@
+﻿@page "/Dashboard"
+@model DashboardModel
+@{
+    ViewData["Title"] = "Dashboard";
+
+}
+
+@if (Model.TodayLessons.Count == 0)
+{
+    <h2 class="mt-4" style="text-align: center">Today there aren't any lessons.</h2>
+}
+else
+{
+    <h2 class="mt-4" style="text-align: center">Today's lessons</h2>
+}
+
+<div class="card border-0" style="align-items: center; background-color: transparent;">
+    <div class="card-body">
+        @foreach (var l in Model.TodayLessons)
+        {
+
+            <div class="card border-primary mt-3 mb-3 mr-3" style="width: 275px; float: left;">
+                <div class="card-header" style="text-align: center"><b>Classroom: @l.Classroom</b></div>
+                <div class="card-body">
+                    <p style="color: black" class="card-text ml-2">Date: <b>@l.Date.ToShortDateString()</b></p>
+                    <p style="color: black" class="card-text ml-2">Start: <b>@l.StartTime</b></p>
+                    <p style="color: black" class="card-text ml-2">Subject: <b>@l.Subject</b></p>
+                    <p style="color: black" class="card-text ml-2">Teacher: <b>@l.Teacher</b></p>
+                </div>
+            </div>
+        }
+    </div>
+</div>

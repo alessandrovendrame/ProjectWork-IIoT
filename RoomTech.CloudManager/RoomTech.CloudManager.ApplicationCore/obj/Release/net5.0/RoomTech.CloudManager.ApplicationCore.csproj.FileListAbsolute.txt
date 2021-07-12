@@ -1,0 +1,15 @@
+C:\Users\Fluox\Documents\Project-Work\sln\RoomTech.CloudManager\RoomTech.CloudManager.ApplicationCore\bin\Release\net5.0\RoomTech.CloudManager.ApplicationCore.deps.json
+C:\Users\Fluox\Documents\Project-Work\sln\RoomTech.CloudManager\RoomTech.CloudManager.ApplicationCore\bin\Release\net5.0\RoomTech.CloudManager.ApplicationCore.dll
+C:\Users\Fluox\Documents\Project-Work\sln\RoomTech.CloudManager\RoomTech.CloudManager.ApplicationCore\bin\Release\net5.0\ref\RoomTech.CloudManager.ApplicationCore.dll
+C:\Users\Fluox\Documents\Project-Work\sln\RoomTech.CloudManager\RoomTech.CloudManager.ApplicationCore\bin\Release\net5.0\RoomTech.CloudManager.ApplicationCore.pdb
+C:\Users\Fluox\Documents\Project-Work\sln\RoomTech.CloudManager\RoomTech.CloudManager.ApplicationCore\bin\Release\net5.0\RoomTech.CloudManager.Domain.dll
+C:\Users\Fluox\Documents\Project-Work\sln\RoomTech.CloudManager\RoomTech.CloudManager.ApplicationCore\bin\Release\net5.0\RoomTech.CloudManager.Domain.pdb
+C:\Users\Fluox\Documents\Project-Work\sln\RoomTech.CloudManager\RoomTech.CloudManager.ApplicationCore\obj\Release\net5.0\RoomTech.CloudManager.ApplicationCore.csproj.AssemblyReference.cache
+C:\Users\Fluox\Documents\Project-Work\sln\RoomTech.CloudManager\RoomTech.CloudManager.ApplicationCore\obj\Release\net5.0\RoomTech.CloudManager.ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fluox\Documents\Project-Work\sln\RoomTech.CloudManager\RoomTech.CloudManager.ApplicationCore\obj\Release\net5.0\RoomTech.CloudManager.ApplicationCore.AssemblyInfoInputs.cache
+C:\Users\Fluox\Documents\Project-Work\sln\RoomTech.CloudManager\RoomTech.CloudManager.ApplicationCore\obj\Release\net5.0\RoomTech.CloudManager.ApplicationCore.AssemblyInfo.cs
+C:\Users\Fluox\Documents\Project-Work\sln\RoomTech.CloudManager\RoomTech.CloudManager.ApplicationCore\obj\Release\net5.0\RoomTech.CloudManager.ApplicationCore.csproj.CoreCompileInputs.cache
+C:\Users\Fluox\Documents\Project-Work\sln\RoomTech.CloudManager\RoomTech.CloudManager.ApplicationCore\obj\Release\net5.0\RoomTech.CloudManager.ApplicationCore.csproj.CopyComplete
+C:\Users\Fluox\Documents\Project-Work\sln\RoomTech.CloudManager\RoomTech.CloudManager.ApplicationCore\obj\Release\net5.0\RoomTech.CloudManager.ApplicationCore.dll
+C:\Users\Fluox\Documents\Project-Work\sln\RoomTech.CloudManager\RoomTech.CloudManager.ApplicationCore\obj\Release\net5.0\ref\RoomTech.CloudManager.ApplicationCore.dll
+C:\Users\Fluox\Documents\Project-Work\sln\RoomTech.CloudManager\RoomTech.CloudManager.ApplicationCore\obj\Release\net5.0\RoomTech.CloudManager.ApplicationCore.pdb

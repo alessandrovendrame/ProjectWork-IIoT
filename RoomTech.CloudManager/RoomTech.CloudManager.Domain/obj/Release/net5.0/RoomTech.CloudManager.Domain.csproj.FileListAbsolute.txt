@@ -1,0 +1,12 @@
+C:\Users\Fluox\Documents\Project-Work\sln\RoomTech.CloudManager\RoomTech.CloudManager.Domain\bin\Release\net5.0\RoomTech.CloudManager.Domain.deps.json
+C:\Users\Fluox\Documents\Project-Work\sln\RoomTech.CloudManager\RoomTech.CloudManager.Domain\bin\Release\net5.0\RoomTech.CloudManager.Domain.dll
+C:\Users\Fluox\Documents\Project-Work\sln\RoomTech.CloudManager\RoomTech.CloudManager.Domain\bin\Release\net5.0\ref\RoomTech.CloudManager.Domain.dll
+C:\Users\Fluox\Documents\Project-Work\sln\RoomTech.CloudManager\RoomTech.CloudManager.Domain\bin\Release\net5.0\RoomTech.CloudManager.Domain.pdb
+C:\Users\Fluox\Documents\Project-Work\sln\RoomTech.CloudManager\RoomTech.CloudManager.Domain\obj\Release\net5.0\RoomTech.CloudManager.Domain.csproj.AssemblyReference.cache
+C:\Users\Fluox\Documents\Project-Work\sln\RoomTech.CloudManager\RoomTech.CloudManager.Domain\obj\Release\net5.0\RoomTech.CloudManager.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fluox\Documents\Project-Work\sln\RoomTech.CloudManager\RoomTech.CloudManager.Domain\obj\Release\net5.0\RoomTech.CloudManager.Domain.AssemblyInfoInputs.cache
+C:\Users\Fluox\Documents\Project-Work\sln\RoomTech.CloudManager\RoomTech.CloudManager.Domain\obj\Release\net5.0\RoomTech.CloudManager.Domain.AssemblyInfo.cs
+C:\Users\Fluox\Documents\Project-Work\sln\RoomTech.CloudManager\RoomTech.CloudManager.Domain\obj\Release\net5.0\RoomTech.CloudManager.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Fluox\Documents\Project-Work\sln\RoomTech.CloudManager\RoomTech.CloudManager.Domain\obj\Release\net5.0\RoomTech.CloudManager.Domain.dll
+C:\Users\Fluox\Documents\Project-Work\sln\RoomTech.CloudManager\RoomTech.CloudManager.Domain\obj\Release\net5.0\ref\RoomTech.CloudManager.Domain.dll
+C:\Users\Fluox\Documents\Project-Work\sln\RoomTech.CloudManager\RoomTech.CloudManager.Domain\obj\Release\net5.0\RoomTech.CloudManager.Domain.pdb
